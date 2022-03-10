@@ -1,3 +1,7 @@
 print("Artemio E. Requillas")
 print("Sitio tibag, Brgy. Sumangga, Mogpog, Marinduque")
 print("October 31,2000")
+print("Marinduque State College")
+print("BS Information Technology")
+print("2nd year college")
+print("2D")
